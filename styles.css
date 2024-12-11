@@ -1,0 +1,25 @@
+body {
+    padding-top: 56px;
+  }
+  
+  .hero {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .section-title {
+    margin-bottom: 30px;
+  }
+  
+  footer {
+    background-color: #0ae058;
+    color: #fff;
+    padding: 20px;
+  }
+  
